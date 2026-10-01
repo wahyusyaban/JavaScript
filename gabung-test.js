@@ -255,7 +255,8 @@ document.addEventListener("DOMContentLoaded", function() {
             { word: "pemerintahan", url: "/search/label/Pemerintahan" }, { word: "politik", url: "/search/label/Politik" },
             { word: "sosial", url: "/search/label/Sosial" }, { word: "Kabupaten Bima", url: "/search/label/Bima" },
             { word: "Kota Bima", url: "/search/label/Kota%20Bima" }, { word: "Dompu", url: "/search/label/Dompu" },
-            { word: "Sumbawa", url: "/search/label/Sumbawa" }, { word: "Sumbawa Barat", url: "/search/label/Sumbawa%20Barat" },
+            { word: "Sumbawa", url: "/search/label/Sumbawa" }, { word: "Sumbawa Barat", url: "/search/label/Sumbawa" },
+            { word: "Sumbawa", url: "/search/label/Sumbawa Barat" }, { word: "Sumbawa Barat", url: "/search/label/Sumbawa%20Barat" },
             { word: "Lombok Timur", url: "/search/label/Lombok%20Timur" }, { word: "Lombok Tengah", url: "/search/label/Lombok%20Tengah" },
             { word: "Lombok Barat", url: "/search/label/Lombok%20Barat" }, { word: "Kota Mataram", url: "/search/label/Kota%20Mataram" },
             { word: "Lombok Utara", url: "/search/label/Lombok%20Utara" }
